@@ -3,12 +3,7 @@ public class B{
 		system.debug("Good evening");
 		system.debug("Good Morning");
 		system.debug("Good night");
-<<<<<<< HEAD
 		system.debug("Sunday");
-=======
 		system.debug("Saturday");
->>>>>>> 7bf31138bc113ccafcfddfb322934db568c51b9a
-		
-
 	}
 }
