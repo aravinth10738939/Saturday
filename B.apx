@@ -1,9 +1,7 @@
 public class B{
 	public void dummy(){
 		system.debug("Good evening");
-
 		system.debug("Good Morning");
-
 		system.debug("Good night");
 		system.debug("Sunday");
 		
